@@ -1,0 +1,2 @@
+# bandit-level-0
+First you have to open up command prompt, then you'll have to type ssh for the secure shell command along with the address followed buy a dash and the port number it should look like this (ssh bandit0@bandit.labs.overthewire.org -p2220). ATTENTION when you go to type the password it will look like you haven't typed anything but you haven't but you are its just invisible. you'll type the password and enter.  Youve completed the task of logging in 
